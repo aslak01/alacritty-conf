@@ -13,7 +13,7 @@ font:
   normal:
     family: MesloLGS NF
     style: Regular
-  size: 14
+  size: 16
 
 # Dracula theme for Alacritty
 # https://draculatheme.com/alacritty
