@@ -1,7 +1,10 @@
+# Config reference:
+# https://github.com/alacritty/alacritty/blob/6d8db6b9dfadd6164c4be7a053f25db8ef6b7998/alacritty.yml
+
 window:
-  # padding:
-  #   x: 5
-  #   y: 0
+  padding:
+    x: 5
+    y: 5
   decorations: buttonless
   dynamic_title: true
 
