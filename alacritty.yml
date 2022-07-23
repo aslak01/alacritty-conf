@@ -1,0 +1,15 @@
+window:
+  # padding:
+  #   x: 5
+  #   y: 0
+  decorations: buttonless
+  dynamic_title: true
+
+font:
+  # Normal (roman) font face
+  normal:
+    family: MesloLGS NF
+    style: Regular
+  size: 14
+import:
+  - ./dracula.yml
